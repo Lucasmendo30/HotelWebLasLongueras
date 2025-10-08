@@ -22,23 +22,23 @@ Bienvenido al repositorio del sitio web del Hotel Rural Las Longueras, una plata
 ## 📁 Estructura del Proyecto
 hotel-paraiso/
 
-├── css/ # Archivos de estilos
+├── css/            # Archivos de estilos
 
-├── images/ # Imágenes, íconos, etc.
+├── images/         # Imágenes, íconos, etc.
 
-├── js/ # Archivos JavaScript
+├── js/             # Archivos JavaScript
 
-├── booking.html # Página de reservas
+├── booking.html    # Página de reservas
 
-├── index.html # Página principal
+├── index.html      # Página principal
 
-├── locations.html # Ubicación y direcciones
+├── locations.html  # Ubicación y direcciones
 
-├── readme.txt # Documentación del proyecto
+├── readme.txt      # Documentación del proyecto
 
-├── rooms.html # Habitaciones y suites
+├── rooms.html      # Habitaciones y suites
 
-└── services.html # Servicios y amenities
+└── services.html   # Servicios y amenities
 
 
 ## 🎯 Funcionalidades Principales
