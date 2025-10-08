@@ -2,7 +2,7 @@
 
 ## Información del Proyecto
 **Versión:** 1.0  
-**Autores:** Aythami, Yunovel y Lucas
+**Autores:** Aythami Lorenzo Padilla, Yunovel Nodarse Martínez y Lucas Mendoza Rodríguez
 
 ---
 
@@ -54,7 +54,7 @@ hotel-paraiso/
 Este proyecto está bajo licencia - ver el archivo LICENSE para más detalles.
 
 ## 🙏 Agradecimientos
-**Equipo de desarrollo:** Aythami Lorenzo, Yunovel y Lucas Mendoza Rodríguez.
+**Equipo de desarrollo:** Aythami Lorenzo Padilla, Yunovel Nodarse Martínez y Lucas Mendoza Rodríguez.
 
 > **Hotel Paraíso** · Donde los sueños se convierten en recuerdos ✨
 
